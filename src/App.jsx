@@ -62,7 +62,7 @@ export default function App() {
 
         <div className="text-center bg-background w-full p-4 rounded-md">
           <h1 className="text-2xl font-bold uppercase bg-gradient bg-clip-text text-transparent ">Vos films et séries, en ULTRA HD !</h1>
-          <img className="w-32 mx-auto mt-4" src="/Vector.png" alt="Vector" />
+          <img className="w-32 mx-auto mt-4" src="/Logo.svg" alt="Vector" />
         </div>
 
         {showData && (
