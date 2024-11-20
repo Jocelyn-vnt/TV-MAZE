@@ -209,7 +209,7 @@ export default function App() {
             Suivez-nous
           </h1>
           <div className="flex justify-center items-center gap-2">
-            <a href="">x
+            <a href="">
               <img src="./RS-1.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
             </a>
             <a href="">
