@@ -44,7 +44,7 @@ export default function App() {
     <div className="">
       <div className="flex flex-col items-center gap-4">
         <div className="w-full flex justify-between items-center p-4 bg-background rounded-md shadow-sm shadow-accent">
-          <img src="/Logo.svg" alt="Logo" className="w-24" />
+          <img src="./Logo.svg" alt="Logo" className="w-24" />
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="" className="h-10 stroke-primary">
             <path strokeLinecap="round" strokeLinejoin="round" d="M17.982 18.725A7.488 7.488 0 0 0 12 15.75a7.488 7.488 0 0 0-5.982 2.975m11.963 0a9 9 0 1 0-11.963 0m11.963 0A8.966 8.966 0 0 1 12 21a8.966 8.966 0 0 1-5.982-2.275M15 9.75a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
           </svg>
@@ -62,7 +62,7 @@ export default function App() {
 
         <div className="text-center bg-background w-full p-4 rounded-md">
           <h1 className="text-2xl font-bold uppercase bg-gradient bg-clip-text text-transparent ">Vos films et séries, en ULTRA HD !</h1>
-          <img className="w-32 mx-auto mt-4" src="./Logo.svg" alt="Vector" />
+          <img className="w-32 mx-auto mt-4" src="./Vector.svg" alt="Vector" />
         </div>
 
         {showData && (
@@ -209,17 +209,17 @@ export default function App() {
             Suivez-nous
           </h1>
           <div className="flex justify-center items-center gap-2">
-            <a href="">
-              <img src="/RS-1.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
+            <a href="">x
+              <img src="./RS-1.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
             </a>
             <a href="">
-              <img src="/RS-2.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
+              <img src="./RS-2.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
             </a>
             <a href="">
-              <img src="/RS-3.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
+              <img src="./RS-3.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
             </a>
             <a href="">
-              <img src="/RS-4.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
+              <img src="./RS-4.svg" alt="Icône de Twitter" className="bg-primary rounded-full p-1 fill-foreground" />
             </a>
           </div>
         </div>
@@ -249,7 +249,7 @@ export default function App() {
 
         <div className="w-full bg-primary flex justify-center items-center rounded-md">
 
-          <a href=""><img src="/Logo.svg" alt="Logo du site de streaming Pacifico" /></a>
+          <a href=""><img src="./Logo.svg" alt="Logo du site de streaming Pacifico" /></a>
 
         </div>
 
